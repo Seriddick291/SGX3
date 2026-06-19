@@ -376,7 +376,11 @@ projects, and contact information.
 📧 <strong>Email:</strong> Sydneyelle03@icloud.com
 
 </p>
+<p>
 
+📞 <strong>Phone:</strong> 252-267-3619
+
+</p>
 <p>
 
 💼 <strong>LinkedIn:</strong>
