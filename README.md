@@ -135,58 +135,42 @@ Visit My LinkedIn Profile
 
 </section>
 
-<section>
-
-<h2>🧬 Projects</h2>
-
-<div class="project">
-
-<h3>Next-Generation Sequencing Pipeline</h3>
-
-<p>
-
-Performed quality control, trimming, genome alignment, assembly, and annotation of Illumina sequencing data using FastQC, MultiQC, Cutadapt, Bowtie2, Samtools, and Prokka.
-
-</p>
-
-</div>
-
-<div class="project">
-
-<h3>CRISPR/Cas9 Research Presentation</h3>
-
-<p>
-
-Created a scientific presentation explaining the CRISPR/Cas9 genome editing system, its molecular mechanism, current applications, and ethical considerations.
-
-</p>
-
-</div>
-
-<div class="project">
-
-<h3>Python Programming</h3>
-
-<p>
-
-Developed Python programs involving functions, Boolean logic, conditional statements, loops, and introductory bioinformatics applications.
-
-</p>
-
-</div>
-
-<div class="project">
-
-<h3>Pyrene Biodegradation Research</h3>
-
-<p>
-
-Studied the microbial degradation of polycyclic aromatic hydrocarbons (PAHs), focusing on pyrene degradation pathways and environmental biotechnology applications.
-
-</p>
-
-</div>
-
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+        <h3>AI & Machine Learning Exploration</h3>
+        <p>
+            Completed Google's Artificial Intelligence Certificate program,
+            gaining foundational knowledge in artificial intelligence, machine
+            learning concepts, prompt engineering, and responsible AI.
+        </p>
+    </div>
+    <div class="project">
+        <h3>Biopharmaceutical Manufacturing Training</h3>
+        <p>
+            Completed hands-on training in biopharmaceutical manufacturing,
+            learning laboratory procedures, quality control principles,
+            biotechnology processes, and Good Manufacturing Practices (GMP).
+        </p>
+    </div>
+    <div class="project">
+        <h3>STEM Research & LSAMP Scholar</h3>
+        <p>
+            Participated in the Louis Stokes Alliance for Minority Participation
+            (LSAMP) program at Elizabeth City State University. Collaborated with
+            faculty and fellow students to strengthen research, scientific
+            communication, and problem-solving skills while promoting diversity
+            in STEM.
+        </p>
+    </div>
+    <div class="project">
+        <h3>Graduate Portfolio Website</h3>
+        <p>
+            Designed and developed a personal GitHub Pages portfolio website
+            using HTML and CSS to showcase my resume, professional experience,
+            certifications, projects, and contact information.
+        </p>
+    </div>
 </section>
 
 <footer>
@@ -195,6 +179,3 @@ Studied the microbial degradation of polycyclic aromatic hydrocarbons (PAHs), fo
 
 </footer>
 
-</body>
-
-</html>
