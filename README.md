@@ -6,116 +6,149 @@
 
 <style>
 
-*{
+body{
     margin:0;
-    padding:0;
-    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+    background:#FFFBEA;
+    color:#444;
+    scroll-behavior:smooth;
 }
 
-body{
-    font-family:Arial, Helvetica, sans-serif;
-    background:#FFFDF8;
-    color:#444;
-    line-height:1.6;
+body::before{
+    content:"🌸 🌼 🌸 🌼 🌸";
+    position:fixed;
+    top:10px;
+    left:15px;
+    font-size:40px;
+    opacity:.25;
+}
+
+body::after{
+    content:"🌼 🌸 🌼 🌸 🌼";
+    position:fixed;
+    bottom:10px;
+    right:15px;
+    font-size:40px;
+    opacity:.25;
+}
+
+header{
+    text-align:center;
+    padding:60px;
+    background:linear-gradient(135deg,#FFE9A8,#FFD6E8);
+    border-bottom:6px solid #F8C8DC;
+}
+
+.profile{
+    width:190px;
+    height:190px;
+    border-radius:50%;
+    object-fit:cover;
+    border:8px solid white;
+    box-shadow:0 10px 25px rgba(0,0,0,.2);
+}
+
+header h1{
+    font-size:48px;
+    color:#D86F96;
+}
+
+header p{
+    font-size:22px;
 }
 
 nav{
-    background:white;
+    display:flex;
+    justify-content:center;
+    gap:18px;
+    background:#FFF2C7;
     padding:18px;
-    text-align:center;
-    position:sticky;
-    top:0;
-    box-shadow:0 2px 10px rgba(0,0,0,.08);
-    z-index:1000;
 }
 
 nav a{
     text-decoration:none;
-    color:#D87FA3;
+    background:#F8C8DC;
+    color:#444;
+    padding:12px 24px;
+    border-radius:30px;
+    transition:.4s;
     font-weight:bold;
-    margin:0 18px;
 }
 
 nav a:hover{
-    color:#B25D84;
+    background:#D86F96;
+    color:white;
+    transform:scale(1.08);
 }
 
-header{
-    background:linear-gradient(135deg,#FADADD,#FFF3B0);
-    text-align:center;
-    padding:60px 20px;
+section{
+    width:80%;
+    margin:40px auto;
+    background:white;
+    padding:35px;
+    border-radius:20px;
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
 }
 
-header img{
-    width:200px;
-    height:200px;
-    border-radius:50%;
-    object-fit:cover;
-    border:6px solid white;
-    margin-bottom:20px;
+h2{
+    color:#D86F96;
 }
 
-header h1{
-    font-size:45px;
-    color:#6A4E42;
+.project{
+    background:#FFF9F0;
+    border-left:8px solid #FFD6E8;
+    border-radius:15px;
+    padding:20px;
+    margin:20px 0;
+    transition:.3s;
 }
 
-header p{
-    font-size:20px;
-    margin:15px 0;
+.project:hover{
+    transform:translateY(-8px);
+    box-shadow:0 12px 20px rgba(0,0,0,.12);
 }
 
 .button{
     display:inline-block;
-    padding:12px 24px;
-    margin:10px;
     background:#F8C8DC;
     color:#444;
-    text-decoration:none;
+    padding:12px 22px;
     border-radius:30px;
+    text-decoration:none;
     font-weight:bold;
     transition:.3s;
 }
 
 .button:hover{
-    background:#FFF3B0;
-    transform:scale(1.05);
-}
-
-section{
-    width:85%;
-    max-width:950px;
-    margin:40px auto;
-    background:white;
-    border-radius:20px;
-    padding:35px;
-    box-shadow:0 8px 20px rgba(0,0,0,.08);
-}
-
-h2{
-    color:#D87FA3;
-    margin-bottom:20px;
-    border-bottom:3px solid #FFF3B0;
-    padding-bottom:10px;
-}
-
-.project{
-    background:#FFF9E6;
-    border-left:6px solid #F8C8DC;
-    border-radius:12px;
-    padding:20px;
-    margin-top:20px;
-}
-
-.project h3{
-    color:#6A4E42;
+    background:#D86F96;
+    color:white;
 }
 
 footer{
-    background:#FADADD;
     text-align:center;
     padding:25px;
-    margin-top:40px;
+    background:#FFE9A8;
+}
+    .flowers{
+    text-align:center;
+    font-size:40px;
+    animation:float 5s ease-in-out infinite;
+}
+
+@keyframes float{
+
+0%{
+transform:translateY(0px);
+}
+
+50%{
+transform:translateY(-10px);
+}
+
+100%{
+transform:translateY(0px);
+}
+
 }
 
 </style>
@@ -177,38 +210,26 @@ Completed Google's Artificial Intelligence Certificate program, learning the fun
 
 </div>
 
-<div class="project">
+<section id="projects">
 
-<h3>Biopharmaceutical Manufacturing</h3>
+<h2>🌸 Projects</h2>
+
+<div class="project">
+<h3>Portfolio Website</h3>
 
 <p>
-
-Completed hands-on biotechnology training focused on pharmaceutical manufacturing, laboratory safety, quality assurance, and Good Manufacturing Practices (GMP).
-
+Designed and developed this personal portfolio website using HTML and CSS.
+The website highlights my education, experience, resume, LinkedIn profile, and technical projects while showcasing responsive web design principles.
 </p>
 
 </div>
 
 <div class="project">
 
-<h3>LSAMP STEM Research</h3>
+<h3>Microsoft Office Projects</h3>
 
 <p>
-
-Participated in the Louis Stokes Alliance for Minority Participation (LSAMP), collaborating on STEM research while strengthening leadership, communication, and scientific research skills.
-
-</p>
-
-</div>
-
-<div class="project">
-
-<h3>Graduate Research</h3>
-
-<p>
-
-Currently conducting graduate research on polycyclic aromatic hydrocarbons and their effectiveness in degrading harmful toxins impacting marine ecosystems and human health.
-
+Created professional business documents, spreadsheets, presentations, and databases using Microsoft Word, Excel, PowerPoint, and Access. Focused on organization, reporting, and presentation of information.
 </p>
 
 </div>
