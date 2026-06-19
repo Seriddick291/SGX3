@@ -106,22 +106,22 @@ Hello, my name is Sydney Riddick. I'm from North Carolina, and I'm 23 years old.
 
 </section>
 
-<section>
-
-<h2>📄 Resume / CV</h2>
-
-<p>
-Download my professional resume to learn more about my education,
-work experience, technical skills, certifications, and achievements.
-</p>
-
-<a href="Resume.pdf" target="_blank">📄 View My Resume</a>
-
+<section id="resume">
+    <h2>Resume</h2>
+    <p>
+        View or download my professional resume to learn more about my education,
+        work experience, technical skills, certifications, and accomplishments.
+    </p>
+    <a href="Resume.pdf" target="_blank" class="button">
+        📄 View My Resume
+    </a>
 </section>
 
 <section id="contact">
     <h2>Contact</h2>
     <p>Email: Sydneyelle03@icloud.com</p>
+   <p>
+       <p>Phone: 252-267-3619</p>
    <p>
         LinkedIn:
         <a href="https://www.linkedin.com/in/sydney-riddick-6177a52b1" target="_blank">
