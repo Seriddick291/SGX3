@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -170,6 +169,28 @@ footer{
     color:#666;
 
 }
+    .flower-frame{
+    display:inline-block;
+    position:relative;
+}
+
+.flower-frame::before{
+    content:"🌸 🌼 🌸 🌷 🌼 🌸";
+    position:absolute;
+    top:-30px;
+    left:50%;
+    transform:translateX(-50%);
+    font-size:26px;
+}
+
+.flower-frame::after{
+    content:"🌷 🌼 🌸 🌼 🌷 🌸";
+    position:absolute;
+    bottom:-30px;
+    left:50%;
+    transform:translateX(-50%);
+    font-size:26px;
+}
 
 </style>
 
@@ -179,8 +200,9 @@ footer{
 
 <header>
 
-<img src="<img width="1800" height="1198" alt="IMG_0419" src="https://github.com/user-attachments/assets/f39e510b-8a2b-4e53-87bd-e831513d6285" />
-" class="profile" alt="Sydney Riddick">
+<div class="flower-frame">
+    <img src="profile.jpg" class="profile" alt="Sydney Riddick">
+</div>
 
 <h1>Sydney Riddick</h1>
 
