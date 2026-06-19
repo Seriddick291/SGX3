@@ -77,6 +77,22 @@ footer{
     padding:20px;
     margin-top:40px;
 }
+    .button {
+    display: inline-block;
+    padding: 12px 24px;
+    margin: 10px;
+    background-color: #f8c8dc; /* Pastel Pink */
+    color: #333;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.button:hover {
+    background-color: #fff9c4; /* Pale Yellow */
+    transform: scale(1.05);
+}
 
 </style>
 
