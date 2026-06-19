@@ -129,8 +129,8 @@ Hello, my name is Sydney Riddick. I'm from North Carolina, and I'm 23 years old.
         work experience, technical skills, certifications, and accomplishments.
     </p>
     <a href="Resume.pdf" target="_blank" class="button">
-        📄 View My Resume
-    </a>
+    📄 View My Resume
+</a>
 </section>
 
 <section id="contact">
@@ -144,7 +144,6 @@ Hello, my name is Sydney Riddick. I'm from North Carolina, and I'm 23 years old.
             www.linkedin.com/in/sydney-riddick-6177a52b1
         </a>
     </p>
-</section>
 
 <section id="projects">
     <h2>Projects</h2>
