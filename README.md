@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -89,9 +88,10 @@ footer{
 
 <h1>🌸 Sydney 🌸</h1>
 
-<img src="profile.jpg" alt="Professional Photo">
+<img src="<img width="1800" height="1198" alt="IMG_0419" src="https://github.com/user-attachments/assets/34934315-70eb-4d11-8e32-23059761adfb" />
+" alt="Professional Photo">
 
-<p>Molecular Biology Graduate • Bioinformatics • Biotechnology</p>
+<p> Biology Graduate • Cum Laude 
 
 </header>
 
