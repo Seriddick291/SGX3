@@ -201,7 +201,7 @@ footer{
 <header>
 
 <div class="flower-frame">
-    <img src="profile.jpg" class="profile" alt="Sydney Riddick">
+    <img src="IMG_0419.JPG" class="profile" alt="Sydney Riddick">
 </div>
 
 <h1>Sydney Riddick</h1>
