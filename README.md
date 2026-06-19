@@ -185,7 +185,7 @@ transform:translateY(0px);
 
 <header>
 
-<img src="profile.jpg" alt="Sydney Riddick">
+<img width="1800" height="1198" alt="IMG_0419" src="https://github.com/user-attachments/assets/34934315-70eb-4d11-8e32-23059761adfb" />
 
 <h1>Sydney Riddick</h1>
 
