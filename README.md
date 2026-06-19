@@ -410,7 +410,3 @@ linkedin.com/in/sydney-riddick-6177a52b1
 © 2026 Sydney Riddick • Created with HTML & CSS • 🌸 Thank you for visiting!
 
 </footer>
-
-</body>
-</html>
-
