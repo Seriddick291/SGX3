@@ -212,12 +212,7 @@ target="_blank">
 
 <p>
 
-Motivated graduate student with experience in customer service, education,
-biotechnology training, STEM research, and healthcare support. Passionate about
-scientific innovation, lifelong learning, and helping others while continuing
-to develop professionally. I strive to apply leadership, communication, and
-problem-solving skills in every opportunity and am eager to contribute to the
-future of healthcare and biotechnology.
+Motivated graduate student with experience in customer service, education, biotechnology training, STEM research, and healthcare support. Passionate about scientific innovation, lifelong learning, and helping others while continuing to develop professionally. I strive to apply leadership, communication, and problem-solving skills in every opportunity and am eager to contribute to the future of biomedical applications and biotechnology.
 
 </p>
 
