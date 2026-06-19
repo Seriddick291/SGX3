@@ -128,7 +128,7 @@ Download My Resume
 
 <p>
 
-<a href="PASTE YOUR LINKEDIN URL HERE" target="_blank">
+<a href="www.linkedin.com/in/sydney-riddick-6177a52b1" target="_blank">
 
 Visit My LinkedIn Profile
 
