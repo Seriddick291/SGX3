@@ -70,7 +70,7 @@ header{
 }
 
 .flower-frame::after{
-    content:"🌼";
+    content:"🌸";
     position:absolute;
     bottom:-14px;
     left:50%;
@@ -177,7 +177,7 @@ footer{
 
 <div class="flower-frame">
 
-<span class="flower-left">🌷</span>
+<span class="flower-left">🌸</span>
 
 <img src="IMG_0419.JPG" class="profile" alt="Sydney Riddick">
 
