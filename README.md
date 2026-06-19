@@ -128,7 +128,7 @@ Hello, my name is Sydney Riddick. I'm from North Carolina, and I'm 23 years old.
         View or download my professional resume to learn more about my education,
         work experience, technical skills, certifications, and accomplishments.
     </p>
-    <a href="Resume.pdf" target="_blank" class="button">
+   <a href="Resume%20Updated%202024(1).pdf" target="_blank">
     📄 View My Resume
 </a>
 </section>
