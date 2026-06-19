@@ -291,24 +291,6 @@ Graduate Biology Student • Cum Laude • STEM Researcher
 
 </p>
 
-<div class="buttons">
-
-<a href="Resume.pdf" target="_blank">
-
-📄 View Resume
-
-</a>
-
-<a href="https://www.linkedin.com/in/sydney-riddick-6177a52b1"
-
-target="_blank">
-
-💼 LinkedIn
-
-</a>
-
-</div>
-
 </header>
 
 <div class="buttons">
