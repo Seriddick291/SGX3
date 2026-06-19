@@ -176,23 +176,13 @@ footer{
 <header>
 
 <div class="flower-frame">
-    <img src="IMG_0419.JPG" class="profile" alt="Sydney Riddick">
-</div> 
 
-<h1>Sydney Riddick</h1>
+<span class="flower-left">🌷</span>
 
-<p class="subtitle">
+<img src="IMG_0419.JPG" class="profile" alt="Sydney Riddick">
 
-Graduate Biology Student • Cum Laude • STEM Researcher
+<span class="flower-right">🌸</span>
 
-</p>
-
-<header>
-
-<div class="flower-frame">
-    <span class="flower-left">🌷</span>
-    <img src="IMG_0419.JPG" class="profile" alt="Sydney Riddick">
-    <span class="flower-right">🌸</span>
 </div>
 
 <h1>Sydney Riddick</h1>
@@ -203,11 +193,12 @@ Graduate Biology Student • Cum Laude • STEM Researcher
 
 <div class="buttons">
 
-<a href="Resume Updated 2024.pdf" target="_blank">
+<a href="Resume%20Updated%202024.pdf" target="_blank">
 📄 View Resume
 </a>
 
-<a href="https://www.linkedin.com/in/sydney-riddick-6177a52b1" target="_blank">
+<a href="https://www.linkedin.com/in/sydney-riddick-6177a52b1"
+target="_blank">
 💼 LinkedIn
 </a>
 
