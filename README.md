@@ -13,33 +13,27 @@ body{
     color:#444;
     scroll-behavior:smooth;
 }
-    }
 
-img{
-    width:200px;
-    height:200px;
-    border-radius:50%;
-    object-fit:cover;
-    border:6px solid #FFF3B0;
-    margin-top:20px;
-}
+/* Decorative flowers */
 
 body::before{
-    content:"🌸 🌼 🌸 🌼 🌸";
+    content:"🌸 🌼 🌸 🌼";
     position:fixed;
-    top:10px;
-    left:15px;
-    font-size:40px;
+    top:15px;
+    left:20px;
+    font-size:42px;
     opacity:.25;
+    z-index:-1;
 }
 
 body::after{
-    content:"🌼 🌸 🌼 🌸 🌼";
+    content:"🌼 🌸 🌼 🌸";
     position:fixed;
-    bottom:10px;
-    right:15px;
-    font-size:40px;
+    bottom:15px;
+    right:20px;
+    font-size:42px;
     opacity:.25;
+    z-index:-1;
 }
 
 header{
@@ -50,17 +44,25 @@ header{
 }
 
 .profile{
-    width:190px;
-    height:190px;
-    border-radius:50%;
+    width:220px;
+    height:220px;
     object-fit:cover;
+    border-radius:50%;
     border:8px solid white;
-    box-shadow:0 10px 25px rgba(0,0,0,.2);
+    box-shadow:0 12px 30px rgba(0,0,0,.2);
+    display:block;
+    margin:20px auto;
+    transition:.4s ease;
+}
+
+.profile:hover{
+    transform:scale(1.05);
 }
 
 header h1{
     font-size:48px;
     color:#D86F96;
+    margin-bottom:10px;
 }
 
 header p{
@@ -70,6 +72,7 @@ header p{
 nav{
     display:flex;
     justify-content:center;
+    flex-wrap:wrap;
     gap:18px;
     background:#FFF2C7;
     padding:18px;
@@ -81,18 +84,19 @@ nav a{
     color:#444;
     padding:12px 24px;
     border-radius:30px;
-    transition:.4s;
+    transition:.3s;
     font-weight:bold;
 }
 
 nav a:hover{
     background:#D86F96;
     color:white;
-    transform:scale(1.08);
+    transform:translateY(-3px);
 }
 
 section{
     width:80%;
+    max-width:950px;
     margin:40px auto;
     background:white;
     padding:35px;
@@ -102,6 +106,8 @@ section{
 
 h2{
     color:#D86F96;
+    border-bottom:2px solid #FFD6E8;
+    padding-bottom:10px;
 }
 
 .project{
@@ -114,15 +120,16 @@ h2{
 }
 
 .project:hover{
-    transform:translateY(-8px);
-    box-shadow:0 12px 20px rgba(0,0,0,.12);
+    transform:translateY(-6px);
+    box-shadow:0 10px 18px rgba(0,0,0,.12);
 }
 
 .button{
     display:inline-block;
+    margin-top:15px;
     background:#F8C8DC;
     color:#444;
-    padding:12px 22px;
+    padding:12px 24px;
     border-radius:30px;
     text-decoration:none;
     font-weight:bold;
@@ -139,10 +146,12 @@ footer{
     padding:25px;
     background:#FFE9A8;
 }
-    .flowers{
+
+.flowers{
     text-align:center;
-    font-size:40px;
+    font-size:38px;
     animation:float 5s ease-in-out infinite;
+    margin:30px;
 }
 
 @keyframes float{
@@ -221,29 +230,57 @@ Completed Google's Artificial Intelligence Certificate program, learning the fun
 </div>
 
 <section id="projects">
-
-<h2>🌸 Projects</h2>
-
-<div class="project">
-<h3>Portfolio Website</h3>
-
-<p>
-Designed and developed this personal portfolio website using HTML and CSS.
-The website highlights my education, experience, resume, LinkedIn profile, and technical projects while showcasing responsive web design principles.
-</p>
-
-</div>
-
-<div class="project">
-
-<h3>Microsoft Office Projects</h3>
-
-<p>
-Created professional business documents, spreadsheets, presentations, and databases using Microsoft Word, Excel, PowerPoint, and Access. Focused on organization, reporting, and presentation of information.
-</p>
-
-</div>
-
+    <h2>Projects</h2>
+    <div class="project">
+        <h3>Google Artificial Intelligence Certificate</h3>
+        <p>
+            Completed Google's Artificial Intelligence Certificate program,
+            developing foundational knowledge of artificial intelligence,
+            machine learning concepts, prompt engineering, generative AI,
+            and responsible AI practices. Applied AI tools to solve real-world
+            problems and improve productivity.
+        </p>
+    </div>
+    <div class="project">
+        <h3>Biopharmaceutical Manufacturing Training</h3>
+        <p>
+            Completed laboratory and hands-on training in biopharmaceutical
+            manufacturing through the Biomanufacturing Research Institute and
+            Technology Enterprise (BRITE). Gained experience with biotechnology
+            processes, laboratory techniques, quality control, safety
+            procedures, and Good Manufacturing Practices (GMP).
+        </p>
+    </div>
+    <div class="project">
+        <h3>LSAMP STEM Scholar & Research Experience</h3>
+        <p>
+            Participated in the Louis Stokes Alliance for Minority Participation
+            (LSAMP) program at Elizabeth City State University. Collaborated on
+            STEM research activities while strengthening scientific
+            communication, teamwork, leadership, and analytical
+            problem-solving skills.
+        </p>
+    </div>
+    <div class="project">
+        <h3>Personal GitHub Portfolio Website</h3>
+        <p>
+            Designed and developed a responsive portfolio website using HTML
+            and CSS through GitHub Pages. The website highlights my resume,
+            LinkedIn profile, professional statement, certifications,
+            technical skills, and project experience while demonstrating web
+            development fundamentals.
+        </p>
+    </div>
+    <div class="project">
+        <h3>Business Information Systems Coursework</h3>
+        <p>
+            Completed academic projects involving Microsoft Excel, Word,
+            PowerPoint, Access, data management, business communication, and
+            information systems concepts. Developed organizational,
+            analytical, and technical skills through individual and team
+            assignments.
+        </p>
+    </div>
 </section>
 
 <section id="resume">
