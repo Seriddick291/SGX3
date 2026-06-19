@@ -13,6 +13,16 @@ body{
     color:#444;
     scroll-behavior:smooth;
 }
+    }
+
+img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    object-fit:cover;
+    border:6px solid #FFF3B0;
+    margin-top:20px;
+}
 
 body::before{
     content:"🌸 🌼 🌸 🌼 🌸";
