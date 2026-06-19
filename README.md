@@ -274,14 +274,8 @@ footer{
 <header>
 
 <div class="flower-frame">
-
-<img src="IMG_0419.JPG"
-
-class="profile"
-
-alt="Sydney Riddick">
-
-</div>
+    <img src="IMG_0419.JPG" class="profile" alt="Sydney Riddick">
+</div> 
 
 <h1>Sydney Riddick</h1>
 
@@ -327,7 +321,25 @@ future of healthcare and biotechnology.
 </p>
 
 </section>
+<section id="about">
 
+<h2>🌼 About Me</h2>
+
+<p>
+
+Hello, my name is Sydney Riddick. I'm from North Carolina, and I'm 23 years old. I have two younger siblings, a brother and a sister. Spending time with family and friends is one of the most important things to me.
+
+Before coming to Elizabeth City State University, I attended College of the Albemarle, where I earned my associate's degree in Biology. After graduating, I transferred to ECSU and earned my bachelor's degree in General Biology with minors in Chemistry and Sustainability. I graduated from ECSU in May 2025, and I am now pursuing a Master's degree in Biology at ECSU.
+
+During my time at ECSU, I have been a chemistry tutor, attended the Biopharmaceutical Manufacturing Program at the Scientific Gateway Coding Institute, and assisted with teaching biology labs.
+
+While working toward my master's degree, I have been conducting research focused on polycyclic aromatic hydrocarbons and their efficiency in degrading harmful toxins in marine and human health contexts.
+
+My time in college hasn't always been easy, but I have found joy in the people I have met along the way and the opportunities I have gained. I look forward to continuing my education, expanding my research experience, and building a career that combines science, research, and helping others.
+
+</p>
+
+</section>
 <section>
 
 <h2>Projects</h2>
