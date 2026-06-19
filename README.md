@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -154,11 +153,9 @@ footer{
 
 <p>
 
-Hello! My name is Sydney Riddick, and I am a graduate student pursuing a Master's degree in Biology at Elizabeth City State University. I earned my Associate's degree in Biology from the College of the Albemarle before completing my Bachelor of Science in General Biology with minors in Chemistry and Sustainability at ECSU, graduating Cum Laude.
-
-My interests include biological research, biotechnology, artificial intelligence, and environmental science. I have participated in the LSAMP STEM program, completed Biopharmaceutical Manufacturing training through the Scientific Gateway Coding Institute, earned a Google AI Certificate, and served as a chemistry tutor and biology laboratory teaching assistant.
-
-My graduate research focuses on polycyclic aromatic hydrocarbons and their role in degrading harmful toxins affecting marine ecosystems and human health. I enjoy learning new technologies, conducting scientific research, and applying science to solve real-world problems.
+Hello, my name is Sydney Riddick. I'm from North Carolina, and I'm 23 years old. I have two younger siblings, a brother and a sister. Spending time with family and friends is one of the most important things to me. 
+    Before coming to Elizabeth City State University, I attended College of the Albemarle, where I earned my associate's degree in Biology. After graduating, I transferred to ECSU and earned my bachelor's degree in General Biology with minors in chemistry and sustainability. I graduated from ECSU in May of 2025, and now I am pursuing a Master's degree in biology at ECSU. During my time at ECSU, I have been a chemistry tutor. I attended the biopharmaceutical manufacturing program at the Scientific Gateway Coding Institute and also assisted with teaching in biology labs. 
+    While working toward my master's, I have been writing my dissertation on polycyclic aromatic hydrocarbons and their efficiency in degrading harmful toxins in marine and human health contexts. My time in college hasn't been easy, but I find joy in the people I meet along the way and the opportunities gained. 
 
 </p>
 
