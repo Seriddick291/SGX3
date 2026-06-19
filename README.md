@@ -115,9 +115,7 @@ Download my professional resume to learn more about my education,
 work experience, technical skills, certifications, and achievements.
 </p>
 
-<a href="Resume.pdf" target="_blank">
-📥 Download My Resume (PDF)
-</a>
+<a href="Resume.pdf" target="_blank">📄 View My Resume</a>
 
 </section>
 
