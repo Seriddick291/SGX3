@@ -40,29 +40,64 @@ body::after{
 
 header{
 
-    background:linear-gradient(135deg,#FFF0B3,#FFD6E8);
+background:linear-gradient(135deg,#FFF0B3,#FFD6E8);
 
-    text-align:center;
+text-align:center;
 
-    padding:45px 20px;
+padding:60px 20px;
 
-    box-shadow:0 3px 10px rgba(0,0,0,.15);
+box-shadow:0 5px 15px rgba(0,0,0,.12);
+
+border-bottom:5px solid #f7c8dc;
 
 }
 
 .profile{
 
-    width:190px;
+width:240px;
 
-    height:190px;
+height:240px;
 
-    border-radius:50%;
+object-fit:cover;
 
-    object-fit:cover;
+/* Adjust this number if you want more forehead or more shoulders */
 
-    border:7px solid white;
+object-position:center 18%;
 
-    box-shadow:0 8px 18px rgba(0,0,0,.25);
+border-radius:50%;
+
+padding:8px;
+
+background:linear-gradient(
+135deg,
+#ffd6e8,
+#fff4a8,
+#ffd6e8
+);
+
+border:5px solid white;
+
+box-shadow:
+
+0 0 0 6px #ffe9f3,
+
+0 15px 30px rgba(0,0,0,.18);
+
+transition:.4s ease;
+
+display:block;
+
+margin:0 auto;
+
+}
+
+.profile:hover{
+
+transform:
+
+scale(1.04)
+
+rotate(-2deg);
 
 }
 
@@ -139,6 +174,45 @@ h2{
     color:#D96FA3;
 
 }
+    .flower-frame{
+
+display:inline-block;
+
+position:relative;
+
+}
+
+.flower-frame::before{
+
+content:"🌸 🌼 🌷 🌸 🌼";
+
+position:absolute;
+
+top:-35px;
+
+left:50%;
+
+transform:translateX(-50%);
+
+font-size:26px;
+
+}
+
+.flower-frame::after{
+
+content:"🌷 🌸 🌼 🌸 🌷";
+
+position:absolute;
+
+bottom:-35px;
+
+left:50%;
+
+transform:translateX(-50%);
+
+font-size:26px;
+
+}
 
 .project{
 
@@ -197,20 +271,45 @@ footer{
 </head>
 
 <body>
-
 <header>
 
 <div class="flower-frame">
-    <img src="IMG_0419.JPG" class="profile" alt="Sydney Riddick">
+
+<img src="IMG_0419.JPG"
+
+class="profile"
+
+alt="Sydney Riddick">
+
 </div>
 
 <h1>Sydney Riddick</h1>
 
 <p class="subtitle">
 
-Graduate Student • STEM Professional • Future Healthcare Leader
+Graduate Biology Student • Cum Laude • STEM Researcher
 
 </p>
+
+<div class="buttons">
+
+<a href="Resume.pdf" target="_blank">
+
+📄 View Resume
+
+</a>
+
+<a href="https://www.linkedin.com/in/sydney-riddick-6177a52b1"
+
+target="_blank">
+
+💼 LinkedIn
+
+</a>
+
+</div>
+
+</header>
 
 <div class="buttons">
 
