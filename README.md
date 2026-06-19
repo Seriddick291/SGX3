@@ -119,20 +119,15 @@ work experience, technical skills, certifications, and achievements.
 
 </section>
 
-<section>
-
-<h2>💼 LinkedIn</h2>
-
-<p>
-
-<a href="www.linkedin.com/in/sydney-riddick-6177a52b1" target="_blank">
-
-Visit My LinkedIn Profile
-
-</a>
-
-</p>
-
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: Sydneyelle03@icloud.com</p>
+   <p>
+        LinkedIn:
+        <a href="https://www.linkedin.com/in/sydney-riddick-6177a52b1" target="_blank">
+            www.linkedin.com/in/sydney-riddick-6177a52b1
+        </a>
+    </p>
 </section>
 
 <section id="projects">
