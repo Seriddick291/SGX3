@@ -88,21 +88,20 @@ footer{
 
 <h1>🌸 Sydney 🌸</h1>
 
-<img src="<img width="1800" height="1198" alt="IMG_0419" src="https://github.com/user-attachments/assets/34934315-70eb-4d11-8e32-23059761adfb" />
-" alt="Professional Photo">
+<img width="1800" height="1198" alt="IMG_0419" src="https://github.com/user-attachments/assets/34934315-70eb-4d11-8e32-23059761adfb" />
+
 
 <p> Biology Graduate • Cum Laude 
 
-</header>
 
 <section>
 
 <h2>🌼 About Me</h2>
 
 <p>
-Hello! My name is Sydney. I recently graduated with a degree in Molecular Biology and have developed a strong interest in bioinformatics, computational biology, and biotechnology. My coursework has provided experience in DNA sequencing, PCR, CRISPR/Cas9, next-generation sequencing (NGS), microbiology, and Python programming.
-
-I enjoy combining biological research with technology to solve scientific problems and continue expanding my skills in data analysis and genomics. My goal is to contribute to research that improves healthcare and advances our understanding of biology.
+Hello, my name is Sydney Riddick. I'm from North Carolina, and I'm 23 years old. I have two younger siblings, a brother and a sister. Spending time with family and friends is one of the most important things to me. 
+    Before coming to Elizabeth City State University, I attended College of the Albemarle, where I earned my associate's degree in Biology. After graduating, I transferred to ECSU and earned my bachelor's degree in General Biology with minors in chemistry and sustainability. I graduated from ECSU in May of 2025, and now I am pursuing a Master's degree in biology at ECSU. During my time at ECSU, I have been a chemistry tutor. I attended the biopharmaceutical manufacturing program at the Scientific Gateway Coding Institute and also assisted with teaching in biology labs. 
+    While working toward my master's, I have been writing my dissertation on polycyclic aromatic hydrocarbons and their efficiency in degrading harmful toxins in marine and human health contexts. My time in college hasn't been easy, but I find joy in the people I meet along the way and the opportunities gained. 
 </p>
 
 </section>
@@ -113,7 +112,7 @@ I enjoy combining biological research with technology to solve scientific proble
 
 <p>
 
-<a href="Resume.pdf" target="_blank">
+<a href="Resume Updated 2024.pdf" target="_blank">
 
 Download My Resume
 
