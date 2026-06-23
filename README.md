@@ -179,7 +179,7 @@ footer{
 
 <span class="flower-left">🌸</span>
 
-<img src="IMG_0419.JPG" class="profile" alt="Sydney Riddick">
+<img src="headshot.jpeg" class="profile" alt="Sydney Riddick">
 
 <span class="flower-right">🌸</span>
 
